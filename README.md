@@ -7,6 +7,9 @@ Before starting, make sure that you have installed
 
 # List of scripts
 
-- **Classic and intercative bubble plot**: 
-![alt text](/classic_bubble_chart.png)
+- **Static and intercative bubble plot**: 
+This script return a bubble chart where the bubble size corresponds to the normalized correlation (Ncor) and colors refer to the statistical significance.
+Using the Plotly's R graphing library, we can transforme the static chart to intercative one (see example).
+Plotly.R is free and open source. 
+![alt text](DOC/static_bubble_chart.png)
 bubble plot.R
