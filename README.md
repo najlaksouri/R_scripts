@@ -7,7 +7,7 @@ Before starting, make sure that you have installed
 
 # List of scripts
 
-- **Static and intercative bubble plot**: 
+**1. Static and intercative bubble plot**: 
 
 This script returns a bubble chart in which the bubble size corresponds to the normalized correlation (Ncor) and colors refer to the statistical significance.  
 
@@ -18,3 +18,4 @@ Using the Plotly's R graphing library, we can transforme the static chart to int
 
 To reproduce this graph, kindly use the **~R/bubble_plot.R**  and **~data/bubble_athaliana.csv**
 
+**2. Density plot**: 
