@@ -1,4 +1,4 @@
-```r
+```{r}
 # Load the libraries
 library(plotly)
 library(ggplot2)
@@ -34,6 +34,4 @@ bubble_interactive
 # save the widget
 library(htmlwidgets)
 saveWidget(bubble_interactive, "Plotly_bubble_chart.html")
-
-
 ```
