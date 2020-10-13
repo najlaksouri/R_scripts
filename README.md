@@ -16,6 +16,6 @@ Using the Plotly's R graphing library, we can transforme the static chart to int
 ![alt text](DOC/static_bubble_chart.png)
 
 
-To reproduce this graph, kindly use the **~R/bubble_plot.R**  and **~data/bubble_athaliana.csv**
+To reproduce this graph, kindly use the **[bubble_plot.R](R/bubble_plot.R)**  and **[bubble_athaliana.csv](data/bubble_athaliana.csv)**
 
 **2. Density plot**: 
