@@ -7,4 +7,6 @@ Before starting, make sure that you have installed
 
 # List of scripts
 
-* Classic and intercative bubble plot: bubble plot.R
+- **Classic and intercative bubble plot**: 
+![alt text](/classic_bubble_chart.png)
+bubble plot.R
